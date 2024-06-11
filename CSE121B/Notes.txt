@@ -1,0 +1,11 @@
+parseInt or etc makes things into the corrosponding variable (parsestr, parstfloat etc
+
+function is used to declare methods, different than the usual
+
+Vars:
+var, let, and const is all things to use
+var - function scoped
+let - block scoped
+const is the unchangable variable
+
+arrow functions are those one put in the w3 notes of organizing code. Not what you think
